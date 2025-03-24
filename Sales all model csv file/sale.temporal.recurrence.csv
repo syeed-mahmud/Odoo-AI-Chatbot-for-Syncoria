@@ -1,0 +1,11 @@
+active,name,duration,unit,duration_display,id,display_name,create_uid,create_date,write_uid,write_date
+True,Daily,1,day,1 Day,3,Daily,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,Hourly,1,hour,1 Hour,1,Hourly,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,3 Hours,3,hour,3 Hours,2,3 Hours,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,Monthly,1,month,1 Month,6,Monthly,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,Quarterly,3,month,3 Months,7,Quarterly,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,Weekly,1,week,1 Week,4,Weekly,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,2 Weeks,2,week,2 Weeks,5,2 Weeks,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,Yearly,1,year,1 Year,8,Yearly,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,3 years,3,year,3 Years,9,3 years,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15
+True,5 Years,5,year,5 Years,10,5 Years,"[1, 'OdooBot']",2025-03-10 17:09:15,"[1, 'OdooBot']",2025-03-10 17:09:15

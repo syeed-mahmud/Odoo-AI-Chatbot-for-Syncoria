@@ -1,0 +1,8 @@
+name,field_id,id,display_name,create_uid,create_date,write_uid,write_date
+State,"[9516, 'State (Lead/Opportunity)']",1,State,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Country,"[9517, 'Country (Lead/Opportunity)']",2,Country,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Phone Quality,"[9506, 'Phone Quality (Lead/Opportunity)']",3,Phone Quality,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Email Quality,"[9507, 'Email Quality (Lead/Opportunity)']",4,Email Quality,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Source,"[9431, 'Source (Lead/Opportunity)']",5,Source,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Language,"[9509, 'Language (Lead/Opportunity)']",6,Language,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Tags,"[9478, 'Tags (Lead/Opportunity)']",7,Tags,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47

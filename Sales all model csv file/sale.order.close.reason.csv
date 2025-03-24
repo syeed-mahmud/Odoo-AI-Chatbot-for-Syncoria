@@ -1,0 +1,15 @@
+name,sequence,visible_in_portal,retention_message,retention_button_text,retention_button_link,empty_retention_message,is_protected,id,display_name,create_uid,create_date,write_uid,write_date
+Subscription is too expensive,10,True,"<h1>We are sorry to hear that.</h1>
+                <p>We don't want you to leave us like this.</p>
+                <p>Before closing your subscription, we'd like to offer you to schedule a call with Marc Demo, your account manager.</p>
+            ",Contact Marc,mailto:mark.brown23@example.com?subject=Close contract: too expensive,False,False,1,Subscription is too expensive,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Subscription does not meet my requirements,10,True,False,False,False,True,False,2,Subscription does not meet my requirements,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Subscription reached its end date,10,False,False,False,False,True,False,3,Subscription reached its end date,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Cancelled,10,True,False,False,False,True,False,4,Cancelled,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+I don't use it,10,True,False,False,False,True,False,5,I don't use it,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Other,10,True,False,False,False,True,False,6,Other,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+The subscription was renewed with a new plan,10,False,False,False,False,True,True,7,The subscription was renewed with a new plan,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+End of contract,10,False,False,False,False,True,True,8,End of contract,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Automatic renewal failed,10,False,False,False,False,True,True,9,Automatic renewal failed,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Unpaid subscription,10,False,False,False,False,True,True,10,Unpaid subscription,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+Unknown,10,False,False,False,False,True,True,11,Unknown,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09

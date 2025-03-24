@@ -1,0 +1,4 @@
+name,reveal_id,id,display_name,create_uid,create_date,write_uid,write_date
+director,director,1,Director,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+executive,executive,2,Executive,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+manager,manager,3,Manager,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37

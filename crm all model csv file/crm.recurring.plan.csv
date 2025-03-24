@@ -1,0 +1,5 @@
+name,number_of_months,active,sequence,id,display_name,create_uid,create_date,write_uid,write_date
+Monthly,1,True,10,1,Monthly,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Yearly,12,True,10,2,Yearly,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Over 3 years,36,True,10,3,Over 3 years,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Over 5 years ,60,True,10,4,Over 5 years ,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47

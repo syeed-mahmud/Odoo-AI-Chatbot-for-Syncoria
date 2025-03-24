@@ -1,0 +1,23 @@
+name,reveal_id,color,id,display_name,create_uid,create_date,write_uid,write_date
+CEO,CEO,0,1,Ceo,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Communications,communications,0,2,Communications,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Consulting,consulting,0,3,Consulting,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Customer Service,customer_service,0,4,Customer Service,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Education,education,0,5,Education,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Engineering,engineering,0,6,Engineering,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Finance,finance,0,7,Finance,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Founder,founder,0,8,Founder,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Health Professional,health_professional,0,9,Health Professional,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Human Resources,human_resources,0,10,Human Resources,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Information Technology,information_technology,0,11,Information Technology,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Legal,legal,0,12,Legal,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Marketing,marketing,0,13,Marketing,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Operations,operations,0,14,Operations,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Owner,owner,0,15,Owner,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+President,president,0,16,President,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Product,product,0,17,Product,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Public Relations,public_relations,0,18,Public Relations,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Real Estate,real_estate,0,19,Real Estate,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Recruiting,recruiting,0,20,Recruiting,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Research,research,0,21,Research,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37
+Sale,sale,0,22,Sale,"[1, 'OdooBot']",2025-03-10 17:07:37,"[1, 'OdooBot']",2025-03-10 17:07:37

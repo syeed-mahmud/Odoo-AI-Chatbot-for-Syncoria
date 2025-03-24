@@ -1,0 +1,9 @@
+name,color,id,display_name,create_uid,create_date,write_uid,write_date
+Product,1,1,Product,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Software,2,2,Software,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Services,3,3,Services,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Information,4,4,Information,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Design,5,5,Design,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Training,6,6,Training,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Consulting,7,7,Consulting,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22
+Other,8,8,Other,"[1, 'OdooBot']",2025-03-10 17:05:22,"[1, 'OdooBot']",2025-03-10 17:05:22

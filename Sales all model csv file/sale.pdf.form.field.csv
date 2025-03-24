@@ -1,0 +1,36 @@
+name,document_type,path,product_document_ids,quotation_document_ids,id,display_name,create_uid,create_date,write_uid,write_date
+AdditionalInformation,product_document,False,[3],[],34,AdditionalInformation,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+EstimatedDuration,quotation_document,False,[],[3],30,EstimatedDuration,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+Length,product_document,False,[3],[],33,Length,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+ProjectDescription,quotation_document,False,[],[3],31,ProjectDescription,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+Warranty,quotation_document,False,[],[3],29,Warranty,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+Width,product_document,False,[3],[],32,Width,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+WorkDetails,quotation_document,False,[],[3],28,WorkDetails,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+amount_total,quotation_document,amount_total,[],[],1,amount_total,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+amount_total,product_document,order_id.amount_total,[],[],11,amount_total,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+amount_untaxed,product_document,order_id.amount_untaxed,[],[],12,amount_untaxed,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+amount_untaxed,quotation_document,amount_untaxed,[],[],2,amount_untaxed,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+client_order_ref,product_document,order_id.client_order_ref,[],[],13,client_order_ref,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+client_order_ref,quotation_document,client_order_ref,[],[],3,client_order_ref,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+delivery_date,quotation_document,commitment_date,[],[],4,delivery_date,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+delivery_date,product_document,order_id.commitment_date,[],[],14,delivery_date,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+description,product_document,name,[],[],15,description,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+discount,product_document,discount,[],[],16,discount,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+name,product_document,order_id.name,[],[],17,name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+name,quotation_document,name,[],"[1, 3]",6,name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+order_date,quotation_document,date_order,[],[3],5,order_date,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+partner_id__name,product_document,order_partner_id.name,[],[],18,partner_id__name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+partner_id__name,quotation_document,partner_id.name,[],"[1, 3]",7,partner_id__name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+price_subtotal,product_document,False,[3],[],35,price_subtotal,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+price_unit,product_document,price_unit,[],[],19,price_unit,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+product_sale_price,product_document,product_id.lst_price,[],[],20,product_sale_price,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+quantity,product_document,product_uom_qty,[],[],21,quantity,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+tax_excl_price,product_document,price_subtotal,[],[],22,tax_excl_price,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+tax_incl_price,product_document,price_total,[],[],23,tax_incl_price,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+taxes,product_document,tax_id,[],[],24,taxes,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+uom,product_document,product_uom.name,[],[],25,uom,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+user_id__email,quotation_document,user_id.login,[],[3],8,user_id__email,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+user_id__name,quotation_document,user_id.name,[],[],9,user_id__name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+user_id__name,product_document,salesman_id.name,[],[],26,user_id__name,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+validity_date,product_document,order_id.validity_date,[],[],27,validity_date,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03
+validity_date,quotation_document,validity_date,[],[3],10,validity_date,"[1, 'OdooBot']",2025-03-10 17:10:03,"[1, 'OdooBot']",2025-03-10 17:10:03

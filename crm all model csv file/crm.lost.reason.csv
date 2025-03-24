@@ -1,0 +1,4 @@
+name,active,leads_count,id,display_name,create_uid,create_date,write_uid,write_date
+Too expensive,True,0,1,Too expensive,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+We don't have people/skills,True,0,2,We don't have people/skills,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Not enough stock,True,0,3,Not enough stock,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47

@@ -1,0 +1,10 @@
+active,name,product_template_id,product_variant_ids,plan_id,pricelist_id,company_id,price,currency_id,id,display_name,create_uid,create_date,write_uid,write_date
+True,1 Months,"[156, 'Car Leasing (SUB)']",[],"[1, 'Monthly']",False,False,20.0,"[1, 'USD']",4,1 Months,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+True,6 Months,"[156, 'Car Leasing (SUB)']",[],"[3, '6 Months']",False,False,100.0,"[1, 'USD']",5,6 Months,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+True,1 Years,"[156, 'Car Leasing (SUB)']",[],"[2, 'Yearly']",False,False,200.0,"[1, 'USD']",6,1 Years,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+True,1 Months,"[189, 'Detergent (SUB)']",[],"[1, 'Monthly']",False,False,10.0,"[1, 'USD']",7,1 Months,"[1, 'OdooBot']",2025-03-10 17:11:08,"[1, 'OdooBot']",2025-03-10 17:11:08
+True,1 Years,"[189, 'Detergent (SUB)']",[],"[2, 'Yearly']",False,False,10.0,"[1, 'USD']",9,1 Years,"[1, 'OdooBot']",2025-03-10 17:11:08,"[1, 'OdooBot']",2025-03-10 17:11:08
+True,6 Months,"[189, 'Detergent (SUB)']",[],"[3, '6 Months']",False,False,10.0,"[1, 'USD']",8,6 Months,"[1, 'OdooBot']",2025-03-10 17:11:08,"[1, 'OdooBot']",2025-03-10 17:11:08
+True,1 Months,"[155, 'Office Cleaning Service (SUB)']",[],"[1, 'Monthly']",False,False,10.0,"[1, 'USD']",1,1 Months,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+True,6 Months,"[155, 'Office Cleaning Service (SUB)']",[],"[3, '6 Months']",False,False,50.0,"[1, 'USD']",2,6 Months,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09
+True,1 Years,"[155, 'Office Cleaning Service (SUB)']",[],"[2, 'Yearly']",False,False,90.0,"[1, 'USD']",3,1 Years,"[1, 'OdooBot']",2025-03-10 17:10:09,"[1, 'OdooBot']",2025-03-10 17:10:09

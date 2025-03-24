@@ -1,0 +1,5 @@
+name,sequence,is_won,requirements,team_id,fold,team_count,id,display_name,create_uid,create_date,write_uid,write_date
+New,1,False,False,False,False,5,1,New,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Qualified,2,False,False,False,False,5,2,Qualified,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Proposition,3,False,False,False,False,5,3,Proposition,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47
+Won,70,True,False,False,False,5,4,Won,"[1, 'OdooBot']",2025-03-10 17:05:47,"[1, 'OdooBot']",2025-03-10 17:05:47

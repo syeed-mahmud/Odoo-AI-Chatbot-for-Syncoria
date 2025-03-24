@@ -1,0 +1,34 @@
+Working on following models (CRM & Sales)
+
+CRM:
+
+--- Model: crm.lead | Purpose: Lead/Opportunity ---
+--- Model: crm.team.member | Purpose: Sales Team Member ---
+--- Model: crm.iap.lead.industry | Purpose: CRM IAP Lead Industry ---
+--- Model: crm.recurring.plan | Purpose: CRM Recurring revenue plans ---
+--- Model: crm.tag | Purpose: CRM Tag ---
+--- Model: crm.lead.scoring.frequency.field | Purpose: Fields that can be used for predictive lead scoring computation ---
+--- Model: crm.lost.reason | Purpose: Opp. Lost Reason ---
+--- Model: crm.iap.lead.role | Purpose: People Role ---
+--- Model: crm.iap.lead.seniority | Purpose: People Seniority ---
+
+Sales: 
+
+--- Model: sale.order | Purpose: Sales Order ---
+--- Model: event.sale.report | Purpose: Event Sales Report ---
+--- Model: sale.pdf.form.field | Purpose: Form fields of inside quotation documents. ---
+--- Model: sale.subscription.pricing | Purpose: Pricing rule of subscription products ---
+--- Model: project.sale.line.employee.map | Purpose: Project Sales line, employee mapping ---
+--- Model: sale.order.template | Purpose: Quotation Template ---
+--- Model: sale.order.template.line | Purpose: Quotation Template Line ---
+--- Model: sale.order.template.option | Purpose: Quotation Template Option ---
+--- Model: sale.rental.report | Purpose: Rental Analysis Report ---
+--- Model: sale.rental.schedule | Purpose: Rental Schedule ---
+--- Model: sale.order.log | Purpose: Sale Order Log ---
+--- Model: sale.temporal.recurrence | Purpose: Sale temporal Recurrence ---
+--- Model: sale.report | Purpose: Sales Analysis Report ---
+--- Model: sale.order.log.report | Purpose: Sales Log Analysis Report ---
+--- Model: sale.order.line | Purpose: Sales Order Line ---
+--- Model: sale.subscription.report | Purpose: Subscription Analysis ---
+--- Model: sale.order.close.reason | Purpose: Subscription Close Reason ---
+--- Model: sale.subscription.plan | Purpose: Subscription Plan ---
